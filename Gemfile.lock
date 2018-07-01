@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    wemo_device (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (12.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  rake
+  wemo_device!
+
+BUNDLED WITH
+   1.16.1
