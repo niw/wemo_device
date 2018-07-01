@@ -11,9 +11,11 @@ DESCRIPTION
 
 `wemo_device` is a Ruby gem library that provides a set of interfaces that looks up Wemo devices by using SSDP protocol, which is a part of UPnP protocols.
 
-Since Wemo devices are using SSDP, but its implementation is for their proprietly usage, it does not fully comform the specifications.
+Since Wemo devices are using SSDP, but its implementation is for their propriety usage, it does not fully conform the specifications.
 
 This library wraps these behaviors and provides a simple interface to lookup the devices on the network.
+
+This library does not have any extra dependencies, works perfect with Ruby standard libraries.
 
 USAGE
 -----
