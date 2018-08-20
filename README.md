@@ -4,7 +4,7 @@ wemo_device
 NAME
 ----
 
-`wemo_device` -- A simple Ruby gem library that lookups [Blkin](http://www.belkin.com/)’s [Wemo](http://www.wemo.com/) devices.
+`wemo_device` -- A simple Ruby gem library that lookups [Belkin](http://www.belkin.com/)’s [Wemo](http://www.wemo.com/) devices.
 
 DESCRIPTION
 -----------
